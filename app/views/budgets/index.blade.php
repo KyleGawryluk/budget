@@ -15,6 +15,10 @@ Budget
 			<div class="span12 thumbnail padded">
 				<p class="table-heading border-bottom">Budget Information</p>
 				<table class="table table-bordered">
+										<tr>
+						<td class="table-title">OPPD Due</td>
+						<td id="">{{$oppd}}</td>
+					</tr>
 					<tr>
 						<td class="table-title">Current Balance</td>
 						<td id=""><input type="text" id="current_bal" class="input-block-level"></td>

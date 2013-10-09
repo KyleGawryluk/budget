@@ -11,8 +11,9 @@ class BudgetsController extends BaseController {
     {
               $user=Sentry::getUser();
        $accounts=User::find($user->id);
+       $oppd = $this->oppd;
 
-       return View::make('budgets.index',compact('accounts'));
+       return View::make('budgets.index',compact('accounts','oppd'));
     }
 
     /**
