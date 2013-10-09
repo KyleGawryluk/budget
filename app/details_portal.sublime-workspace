@@ -1,0 +1,844 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"View",
+				"View-make	View-make"
+			],
+			[
+				"Inp",
+				"Input-path	Input-path"
+			],
+			[
+				"un",
+				"unavailableKey"
+			],
+			[
+				"com",
+				"compact"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"re",
+				"remindDate"
+			],
+			[
+				"mee",
+				"meetingUser"
+			],
+			[
+				"user",
+				"userList"
+			],
+			[
+				"meeting",
+				"meetingUser"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"date",
+				"datediff"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"ce",
+				"cell_phone"
+			],
+			[
+				"Input",
+				"Input"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"su",
+				"imageSugar"
+			],
+			[
+				"imag",
+				"imageSugar"
+			],
+			[
+				"ima",
+				"imageSugar"
+			],
+			[
+				"con",
+				"contentUrl"
+			],
+			[
+				"thui",
+				"thumbnailUrl"
+			],
+			[
+				"mod",
+				"module_id"
+			],
+			[
+				"mo",
+				"module_name"
+			],
+			[
+				"ins",
+				"insertedEntry"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"contact",
+				"contact_user_id"
+			],
+			[
+				"Res",
+				"RestController"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"log",
+				"logAPI"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"input",
+				"input-block-level"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"span",
+				"span6"
+			],
+			[
+				"mk",
+				"mktime"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"http_get_",
+				"http_get_request_headers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp2/htdocs/details/app/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3376,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssblade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssbl",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"gen",
+				"Laravel Generate: Resource"
+			],
+			[
+				"gener",
+				"Laravel Generate: Resource"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp01090/var/www/html/rvr3/html/utica/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp21754/var/www/html/rvr3/html/alfredstate/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp01730/var/www/html/rvr3/html/regent/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp01140/var/www/html/rvr3/html/roanoke/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp00885/var/www/html/rvr3/html/sti/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp59371/var/www/html/rvr3/html/auburn/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp59044/var/www/html/rvr3/html/rcas/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp58567/var/www/html/rvr3/html/cbcs/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp58544/var/www/html/rvr3/html/mpa/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp56730/var/www/html/rvr3/html/dmac/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp57776/var/www/html/rvr3/html/devryadvantage/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp51585/var/www/html/rvr3/html/epc/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp10935/var/www/html/rvr3/html/sdsmtsf/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp50034/var/www/html/rvr3/html/academy20/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp50331/var/www/html/rvr3/html/una/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp05015/var/www/html/rvr3/html/nau/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp30625/var/www/html/rvr3/html/mnsustore/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp30449/var/www/html/rvr3/html/enmur/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp30346/var/www/html/rvr3/html/uni/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp36884/var/www/html/rvr3/html/usdhp/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/hg-kyleg/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp29003/var/www/html/rvr3/backup/usdhp/includes/php/databaseFunctions.php",
+		"/C/xampp2/htdocs/RTI/alfredstate/includes/php/connection.php",
+		"/C/xampp2/htdocs/RTI/alfredstate/cart/rightStuff.php",
+		"/C/xampp2/htdocs/RTI/alfredstate/includes/php/config.php",
+		"/C/Users/hg-kyleg/Desktop/AS_basic.txt",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp22053/var/www/html/rvr3/backup/sdstate/includes/php/config.php",
+		"/C/xampp2/php/php.ini",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp18219/var/www/html/rvr3/backup/usd/includes/php/config.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp17975/var/www/html/rvr3/backup/alfredstate/includes/php/config.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp18357/var/www/html/rvr3/backup/devryadvantage/includes/php/config.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp19889/var/www/html/rvr3/backup/rockvalleysf/includes/php/config.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp42236/var/www/html/rvr3/backup/alfredstate/includes/php/databaseFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp34904/var/www/html/rvr3/html/alfredstate/cart/verifyInfoScript.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp33928/var/www/html/rvr3/html/alfredstate/cart/verifyInfo.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp35477/var/www/html/rvr3/html/alfredstate/includes/php/config.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp35933/var/www/html/rvr3/html/alfredstate/includes/php/getPostFunctions.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp35005/var/www/html/rvr3/html/alfredstate/includes/php/connection.php",
+		"/C/xampp2/htdocs/budget/app/views/backend/dashboard.blade.php",
+		"/C/xampp2/htdocs/budget/composer.json",
+		"/C/xampp2/htdocs/budget/app/config/app.php",
+		"/C/xampp2/htdocs/budget/app/controllers/AccountsController.php",
+		"/C/xampp2/htdocs/budget/app/config/database.php",
+		"/C/xampp2/htdocs/budget/app/routes.php",
+		"/C/xampp2/htdocs/budget/app/views/frontend/auth/signin.blade.php",
+		"/C/xampp2/htdocs/budget/app/controllers/AuthController.php",
+		"/C/xampp2/htdocs/budget/app/views/backend/layouts/default.blade.php",
+		"/C/xampp2/htdocs/budget/app/views/frontend/account/profile.blade.php",
+		"/C/xampp2/htdocs/budget/app/views/frontend/account/change-password.blade.php",
+		"/C/xampp2/htdocs/budget/app/views/frontend/account/change-email.blade.php",
+		"/C/xampp2/htdocs/budget/app/views/frontend/layouts/account.blade.php",
+		"/C/xampp2/htdocs/budget/app/views/frontend/layouts/default.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/controllers/FeedbackController.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/admin/feedback.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/public/assets/js/conflict-resolution.js",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/meetings/show.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/admin/dashboard.blade.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp04203/var/www/html/rvr3/html/alfredstate/cart/placeOrder.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp03451/var/www/html/rvr3/html/alfredstate/cart/checkout2.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp03990/var/www/html/rvr3/html/alfredstate/cart/checkoutScript.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/admin/layouts/default.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/meetings/index.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/commands/DailyReport.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/config/app.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/daily-report.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/routes.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/controllers/MeetingUserController.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/storage/logs/test.log",
+		"/C/Program Files (x86)/Git/etc/gitconfig",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/commands/MeetingReminder.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp32918/var/www/html/app/config/app.php",
+		"/D/UrbanTerror/q3ut4/server.cfg",
+		"/D/UrbanTerror/q3ut4/bots.cfg",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp38193/var/www/html/app/views/emails/meeting-status-update.blade.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp36826/var/www/html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp23661/var/www/html/app/storage/logs/log-apache2handler-2013-07-05.txt",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp23726/var/log/tmsmm.com-error_log",
+		"/C/Users/hg-kyleg/AppData/Local/Temp/scp00074/var/www/html/sgh/sgh old/index.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/public/assets/css/style.css",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/meetings/create.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/meeting-status-update.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/controllers/MeetingsController.php",
+		"/C/Users/hg-kyleg/AppData/Roaming/Sublime Text 2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.py",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/meeting-created.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/admin/users/create.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/meetings/edit.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/controllers/UsersController.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/README.md",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/filters.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/controllers/BaseController.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/controllers/AuthController.php",
+		"/C/xampp2/htdocs/SGH-Portal/app/controllers/AuthController.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/user-created.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/site/account/forgot-password.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/site/account/forgot-password-confirmation.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/forgot-password.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/lang/en/account/auth.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/admin/users/show.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/user-reminder.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/guest-reminder.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/start/artisan.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/meetings/user-accept.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/controllers/InvitationsController.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/meetings/guest-decline.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/guest-meeting-invite.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/meetings/partials/guestsTable.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/meetings/guest-accept.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/meetings/user-decline.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/meetings/thanks.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/meetings/partials/usersTable.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/user-meeting-invite.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/guest-meeting-removed.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/user-meeting-removed.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/guest-status-update.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/user-status-update.blade.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/controllers/GuestsController.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/test-email.blade.php",
+		"/C/Users/hg-kyleg/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/hg-kyleg/AppData/Roaming/Sublime Text 2/Packages/User/bh_core.sublime-settings",
+		"/C/Users/hg-kyleg/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/models/MeetingUser.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/models/Meeting.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/controllers/AttendeesController.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/meetings/partials/handlebars/addGuest.php",
+		"/C/xampp2/htdocs/tmsmm-laravel/app/views/emails/feedback.blade.php"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp2\\htdocs\\tmsmm-laravel",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getTax",
+			"tax",
+			"	",
+			"tax",
+			"/000",
+			"000",
+			"0.075000",
+			"1.000000",
+			"00",
+			"upload",
+			"tax",
+			"26",
+			"setError",
+			"zip code",
+			"State does not match up with area of zip code",
+			"tax",
+			"home",
+			"july",
+			"console.log",
+			"console",
+			"scheduled",
+			"<span class=\"required\">*</span>",
+			"meetingUser",
+			"$meetingUser",
+			"remove",
+			"$meetingUser->",
+			"$meetingUser->meeting",
+			"$meeting",
+			"$meetingUser->meetingUser->user",
+			"$meeting",
+			"$guest",
+			"$meeting",
+			"$invitedUser",
+			"lightgrey",
+			"colspan=\"2\"",
+			"lightgray",
+			"border:1px solid lightgray;",
+			";;",
+			"border-collapse: collapse;",
+			"class=\"title third\"",
+			"border-collapse: collapse; ",
+			"auto",
+			"close",
+			"border:1px solid #9f9f9f;",
+			"border-collapse: collapse",
+			"wrap",
+			"%20",
+			"&gt;",
+			"$InvitedGuest",
+			"unstyled",
+			"td style=\"",
+			"$meetings[$i]",
+			"class=\"table-heading\"",
+			"style=\"border:1px solid lightgrey;padding:8px;\"",
+			" colspan=\"2\"",
+			"class=\"title\"",
+			"<td td style=\"",
+			"class",
+			"class=\"third\"",
+			"</td style=\"border:1px solid lightgrey;padding:8px;\">",
+			"style=\"border:1px solid lightgrey;padding:8px;\" style=\"background:#eee;color:#888;text-align:right;width:33%;\"",
+			"td",
+			"class=\"meeting-details\"",
+			"class=\"image_fix\"",
+			"class=\"table\"",
+			"id=\"backgroundTable\"",
+			"class=\"header\"",
+			"class=\"table-heading\"",
+			"class=\"title third\"",
+			"border-collapse: collapse;",
+			"width: 100%",
+			"width:100%",
+			"&gt;",
+			"&gt",
+			"meetingUser",
+			"activity",
+			"user",
+			"spell",
+			"self",
+			"mail",
+			"user",
+			"start",
+			"font-family",
+			"font",
+			"btn-large",
+			"a",
+			".btn",
+			"a.btn",
+			".btn",
+			",btn",
+			"btn",
+			".png",
+			"start",
+			"utc",
+			"datetime",
+			"date",
+			"personal",
+			".show",
+			"bag",
+			"message",
+			"unavailability",
+			"get users",
+			"span",
+			"icon-white",
+			"505050",
+			".width",
+			"748",
+			"window",
+			"windpe",
+			"@",
+			"fixed-bottom",
+			".fixed-bottom",
+			"@",
+			"@media	",
+			"fnPaging",
+			"full",
+			"label",
+			"border-top",
+			"border",
+			"readonly",
+			"section",
+			"selected",
+			"groups",
+			"group",
+			"activated",
+			"speed",
+			"modpage",
+			"portal"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"pending",
+			"<span class=\"required\"> *</span>",
+			"meeting",
+			"$meeting",
+			"$",
+			"$meeting",
+			"$meetingUser->meeting",
+			"$meetingUser->user",
+			"$meetingUser->meeting",
+			"$meetingUser->user",
+			"$meetingUser->meeting",
+			"$meetingUser->user",
+			"#CCCCCC",
+			"",
+			"#CCCCCC",
+			"border:1px solid lightgray;border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;",
+			";",
+			"",
+			"border:1px solid lightgray;",
+			"border-collapse: collapse; border:1px solid #9f9f9f;",
+			"'",
+			">",
+			"$invitedGuest",
+			"td style=\"border-collapse:collapse;",
+			"$meeting",
+			"style=\"color:#888;font-size:18px;font-style:bold\"",
+			"",
+			"style=\"border:1px solid lightgrey;padding:8px;color:#888;font-size:18px;font-style:bold\"",
+			"<td style=\"",
+			"",
+			"style=\"border:1px solid lightgrey;padding:8px;width:33%;\"",
+			"</td>",
+			"td style=\"border:1px solid lightgrey;padding:8px;background:#eee;color:#888;text-align:right;width:33%;\"",
+			"td style=\"border:1px solid lightgrey;padding:8px;\"",
+			"style=\"width:500px;\"",
+			"style=\"display:block;border:none;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic\"",
+			"style=\"width:100%;\"",
+			"style=\"margin:0;padding:0;width:100%!important;line-height:100%!important\"",
+			"style=\"background-color: #353535;\"",
+			"style=\"color:#888;font-size:18px;font-style:bold\"",
+			"style=\"background:#eee;color:#888;text-align:right;width:33%;\"",
+			"		background:#eee;\n		background:#eee;\n		background:#eee;\nstyle=\"background:#eee;color:#888;text-align:right;width:33%;\"",
+			"border: 1px solid #AFAFAf;",
+			"border: 1px solid #555;",
+			"border: 1px solid #555",
+			"",
+			">",
+			"guest",
+			"end",
+			"li",
+			"",
+			"353535",
+			"disabled",
+			"\"",
+			"file",
+			"files",
+			"../app/lib/Zend/",
+			"../",
+			"",
+			"task",
+			"$task"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp2/htdocs/details/app/config/database.php",
+					"settings":
+					{
+						"buffer_size": 3376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1551,
+								1551
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 960.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 566.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"for",
+				"app/views/site/account/forgot-password-confirmation.blade.php"
+			],
+			[
+				"forg",
+				"app/views/site/account/forgot-password.blade.php"
+			],
+			[
+				"command",
+				"vendor/laravel/framework/src/Illuminate/Console/Command.php"
+			],
+			[
+				"user-",
+				"app/views/emails/user-meeting-invite.blade.php"
+			],
+			[
+				"validat",
+				"vendor/laravel/framework/src/Illuminate/Validation/Validator.php"
+			],
+			[
+				"vali",
+				"app/lang/en/validation.php"
+			],
+			[
+				"form",
+				"vendor/laravel/framework/src/Illuminate/Html/FormBuilder.php"
+			],
+			[
+				"filter",
+				"app/filters.php"
+			],
+			[
+				"def",
+				"app/views/frontend/layouts/default.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true
+}
