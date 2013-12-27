@@ -12,7 +12,6 @@ class BaseController extends Controller {
 	 */
 	protected $messageBag = null;
 
-	public $oppd;
 
 	/**
 	 * Initializer.
@@ -26,18 +25,6 @@ class BaseController extends Controller {
 
 		//
 		$this->messageBag = new Illuminate\Support\MessageBag;
-
-
-				$client = new Client();
-		$crawler = $client->request('GET', 'https://myaccount.xxxx.com/SingleSignOn/logon.aspx');
-
-		$form = $crawler->selectButton('Login')->form();
-		$crawler = $client->submit($form, array('ctl00$contentMain$username' => 'xxxx', 'ctl00$contentMain$password' => 'xxxx'));
-
-		$link = $crawler->selectLink('View Account Summary')->link();
-		$crawler = $client->click($link);
-
-		$this->oppd = str_replace('$', '', $crawler->filter('#ctl00_contentMain_gdvAccts_ctl02_Label1')->eq(2)->text());
 	}
 
 	/**

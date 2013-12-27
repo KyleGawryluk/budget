@@ -15,21 +15,29 @@ Budget
 			<div class="span12 thumbnail padded">
 				<p class="table-heading border-bottom">Budget Information</p>
 				<table class="table table-bordered">
-										<tr>
-						<td class="table-title">OPPD Due</td>
-						<td id="">{{$oppd}}</td>
-					</tr>
+					{{Form::open()}}
 					<tr>
 						<td class="table-title">Current Balance</td>
-						<td id=""><input type="text" id="current_bal" class="input-block-level"></td>
+						<td>
+							{{Form::text('balance', null, ['class'=>'input-block-level'])}}
+						</td>
 					</tr>
 					<tr>
 						<td class="table-title">Budget Start Date</td>
-						<td><input type="text" id="start_date" value="{{ date('m-d-y')}}" class="input-block-level"></td>
+						<td>
+							{{Form::text('start_date', null, ['class'=>'input-block-level'])}}
+						</td>
 					</tr>
 										<tr>
 						<td class="table-title">Pay Periods</td>
-						<td><input type="text" id="pay_periods" value="16" class="input-block-level"></td>
+						<td>
+							{{Form::text('pay_periods', null, ['class'=>'input-block-level'])}}
+						</td>
+					</tr>
+					<tr>
+						<td colspan="2">
+							{{Form::submit('Save', ['class'=>'btn btn-success'])}}
+						</td>
 					</tr>
 
 				</table>
@@ -62,10 +70,12 @@ Budget
 					<th>Action</th>
 					@foreach ($accounts->accounts as $account)
 					<tr>
+						{{Form::open()}}
 						<td>{{$account->name}}</td>
 						<td id="{{$account->name}}{{$i}}">{{$account->amount_due}}</td>
 						<td></td>
 						<td><button id="pay{{$i}}" class="btn btn-success">Pay</button></td>
+						{{Form::close()}}
 					</tr>
 					@endforeach
 					<tr>
@@ -94,7 +104,7 @@ Budget
 			@endif
 			@endfor
 		</div>
-		
+
 	</div>
 </div>
 

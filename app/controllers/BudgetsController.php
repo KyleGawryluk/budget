@@ -11,9 +11,8 @@ class BudgetsController extends BaseController {
     {
               $user=Sentry::getUser();
        $accounts=User::find($user->id);
-       $oppd = $this->oppd;
 
-       return View::make('budgets.index',compact('accounts','oppd'));
+       return View::make('budgets.index',compact('accounts'));
     }
 
     /**
@@ -33,7 +32,12 @@ class BudgetsController extends BaseController {
      */
     public function store()
     {
-        //
+
+        $budget = new Budget;
+        $budget->balance = Input::get('balance');
+        $budget->save();
+
+        return Redirect::back();
     }
 
     /**
